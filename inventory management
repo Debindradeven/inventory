@@ -1,0 +1,57 @@
+[33mcommit 412d30dcd91b15463095275c1451e75a7ebca977[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: a53267e 6ea44ee
+Author: Debindra Bhandari <debindrabhandari@gmail.com>
+Date:   Sun Mar 10 22:00:43 2024 +0545
+
+    Version 2.1
+
+[33mcommit a53267ec74c8d7bd046df60999b9d6eafec48c6f[m
+Author: Debindra Bhandari <debindrabhandari@gmail.com>
+Date:   Sun Mar 10 20:02:57 2024 +0545
+
+    Version 1.3
+
+[33mcommit b305ed2233c4f97d20ec01b68128004fca754f25[m
+Author: Debindra Bhandari <debindrabhandari@gmail.com>
+Date:   Sun Mar 10 19:26:41 2024 +0545
+
+    Update 1.2
+
+[33mcommit 4fbf33538ed5fd6c07166a039443393222bb67af[m
+Author: Debindra Bhandari <debindrabhandari@gmail.com>
+Date:   Sun Mar 10 19:24:05 2024 +0545
+
+    update 1.1
+
+[33mcommit 6ea44eeb5cf380a419091a16b5058d71b08af872[m
+Author: Debindra Bhandari <debindrabhandari@gmail.com>
+Date:   Sat Mar 9 21:01:22 2024 +0545
+
+    Update notfirst.py
+
+[33mcommit dedee3929874e7c2f527ee48da85a3e22fbc4b0f[m
+Merge: 0005971 a13e0b8
+Author: Debindra Bhandari <debindrabhandari@gmail.com>
+Date:   Sat Mar 9 20:52:06 2024 +0545
+
+    Merge pull request #1 from Debindradeven/test1
+    
+    Update README.md
+
+[33mcommit a13e0b8321ad89608b49e7d4b4517b393d06de88[m
+Author: Debindra Bhandari <debindrabhandari@gmail.com>
+Date:   Sat Mar 9 20:46:40 2024 +0545
+
+    Update README.md
+
+[33mcommit 00059712b20d0422b1bed5332b40f2717386c68e[m
+Author: Debindra Bhandari <debindrabhandari@gmail.com>
+Date:   Sat Mar 9 12:44:30 2024 +0545
+
+    Create README.md
+
+[33mcommit f13a076d00f3da09b7d602e0a6e65900d8bb5607[m
+Author: Debindra Bhandari <debindrabhandari@gmail.com>
+Date:   Sat Mar 9 11:53:56 2024 +0545
+
+    First Commit. Hurray
